@@ -1,5 +1,5 @@
 # Git-Command
-Get almost all the necessary git command.
+Get almost all the necessary Git commands.
 
 
 ### Getting & Creating Projects
